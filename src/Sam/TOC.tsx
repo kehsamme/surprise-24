@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import Food from "./food";
-import Sam from ".";
+// import Food from "./food";
+// import Sam from ".";
 export default function TOC() {
     return (
       <ul>

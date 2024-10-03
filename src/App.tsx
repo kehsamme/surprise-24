@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 // import logo from './logo.svg';
 import Food from './Sam/food';
 import './App.css';
