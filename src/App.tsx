@@ -1,6 +1,6 @@
 // import React from 'react';
 // import logo from './logo.svg';
-import Food from './Sam/food';
+// import Food from './Sam/food';
 import './App.css';
 import Sam from './Sam';
 import { HashRouter, Route, Routes, Navigate} from "react-router-dom";
