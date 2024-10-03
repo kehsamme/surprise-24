@@ -7,7 +7,7 @@ export default function Intro() {
         <table>
             <tbody>
                 <tr>
-                <td><img className="wd-border-fat wd-border-blue-1 wd-border-solid" id="bf-cute" src="images/IMG_1961.jpg" height="500px" /></td>
+                <td><img className="wd-border-fat wd-border-blue-1 wd-border-solid" id="bf-cute" src="images/IMG_1961.jpg" height="500px" alt=""/></td>
                 <td >
                 <h3 className="wd-header-text-2">Reasons why Sam is the BEST Boyfriend</h3>
                 <ul className="wd-header-text-3">
